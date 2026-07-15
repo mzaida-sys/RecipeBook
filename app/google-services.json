@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "633900554594",
+    "firebase_url": "https://top-reef-501611-b5-default-rtdb.firebaseio.com",
+    "project_id": "top-reef-501611-b5",
+    "storage_bucket": "top-reef-501611-b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633900554594:android:623a47813d9a8bdbef343b",
+        "android_client_info": {
+          "package_name": "com.example.recipebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDez1o3Xycw0aWuCfr0ZUQ1gjoFIueERDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
