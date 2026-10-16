@@ -39,3 +39,7 @@ RecipeBook is a mobile Android application designed for food enthusiasts to disc
 ## Author
 
 - GitHub Profile: https://github.com/mzaida-sys
+
+- 
+## Application Demo
+https://github.com/mzaida-sys/RecipeBook/releases/download/v1.0.0/Screen.Recording.2026-07-15.184444.mp4
